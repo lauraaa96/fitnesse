@@ -131,4 +131,4 @@ both Maven Central and JCenter.
    ```
    $ ./gradlew release
    ```
-
+Laura Serrano Ruiz 09/04/2021 I.E.S. Luiz Vélez de Guevara
